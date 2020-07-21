@@ -2,7 +2,7 @@
 
 By Yikai Wang, Fuchun Sun, Duo Li and Anbang Yao.
 
-This repository is an official implementation of "Resolution Switchable Networks for Runtime Efficient Image Recognition", accepted by ECCV 2020. We provide PyTorch implementation for non-quantization and TensorFlow implementation for quantization. Experiments are conducted on the [ILSVRC 2012](http://www.image-net.org) benchmark.
+This repository is an official implementation of ["Resolution Switchable Networks for Runtime Efficient Image Recognition"](https://arxiv.org/abs/2007.09558), accepted by ECCV 2020. We provide PyTorch implementation for non-quantization and TensorFlow implementation for quantization. Experiments are conducted on the [ILSVRC 2012](http://www.image-net.org) benchmark.
 
 
 
@@ -87,7 +87,7 @@ python imagenet.py \
     --workers <num-workers>
     --eval \
     --resume <path-to-checkpoint> \
-    --sizes 224 192 160 128 96 \
+    --sizes 224 192 160 128 96
 ```
 
 
