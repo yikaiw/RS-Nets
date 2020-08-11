@@ -183,9 +183,9 @@ python imagenet.py \
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@inproceedings{Wang_2020_ECCV,
+@inproceedings{wang2020rsnets,
   title={Resolution Switchable Networks for Runtime Efficient Image Recognition},
-  author={Yikai Wang, Fuchun Sun, Duo Li and Anbang Yao},
+  author={Wang, Yikai and Sun, Fuchun and Li, Duo and Yao, Anbang},
   booktitle = {The European Conference on Computer Vision (ECCV)},
   year={2020}
 }
